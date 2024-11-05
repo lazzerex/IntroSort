@@ -1,0 +1,7 @@
+E:\CSharp_Repo\IntroSort\IntroSort\bin\Debug\IntroSort.exe.config
+E:\CSharp_Repo\IntroSort\IntroSort\bin\Debug\IntroSort.exe
+E:\CSharp_Repo\IntroSort\IntroSort\bin\Debug\IntroSort.pdb
+E:\CSharp_Repo\IntroSort\IntroSort\obj\Debug\IntroSort.csproj.AssemblyReference.cache
+E:\CSharp_Repo\IntroSort\IntroSort\obj\Debug\IntroSort.csproj.CoreCompileInputs.cache
+E:\CSharp_Repo\IntroSort\IntroSort\obj\Debug\IntroSort.exe
+E:\CSharp_Repo\IntroSort\IntroSort\obj\Debug\IntroSort.pdb
