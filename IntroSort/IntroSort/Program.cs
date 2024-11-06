@@ -12,7 +12,7 @@ namespace IntroSort
         {
             Console.OutputEncoding = Encoding.Unicode;
             // Mảng ví dụ
-            int[] arr = { 5, 2, 8, 1, 9, 3, 7, 4, 6, 10, 15, 12, 11, 14, 13, 20, 18, 16, 19, 17, 22, 25, 21, 23, 24, 26, 27, 28, 29, 30 };
+            int[] arr = { 5, 2, 8, 1, 9, 3, 7, 4, 6, 10, 15, 12, 11, 14, 13, 20, 18, 16, 19, 17, 22, 25, 21, 23, 24, 26, 27, 28, 29, 30, 35, 19 };
 
             // Sao chép mảng gốc
             int[] original = new int[arr.Length];
